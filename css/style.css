@@ -5,6 +5,8 @@
 }
 body{
     overflow-x: hidden;
+    
+    height: 100vh;
 }
 .carousel-item img{
     width: 100%;
@@ -15,3 +17,7 @@ body{
     max-height: 200px;
 
 }
+footer{
+    margin: auto;
+}
+
